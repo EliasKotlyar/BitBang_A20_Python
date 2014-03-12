@@ -1,3 +1,6 @@
+Wurde um die Funktion Bitbang erweitert. Wird benötigt um den Display zu betreiben.
+
+
 This package provides class to control the GPIO on Olinuxino A20.
 Current release does no support any peripheral functions.
 
